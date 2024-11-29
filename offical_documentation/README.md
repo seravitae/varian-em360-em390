@@ -6,4 +6,4 @@ Note that the EM-360 and EM-390 are very similar machines, and the EM-390 manual
 
 Given that my original manual is over 40 years old it was faded and yellow, I have done my best to restore the documents.
 
-If you want to have a go at restoring the document, contact me for the original/raw scans and you may have better luck.
+If you want to have a go at restoring the document, especially for circuit diagrams, contact me for the original/raw scans and you may have better luck.
